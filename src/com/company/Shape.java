@@ -1,2 +1,7 @@
-package com.company;public class Shape {
+package com.company;
+
+public abstract class Shape {
+
+
+    public abstract double getPerimeter();
 }
